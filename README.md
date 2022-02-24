@@ -11,6 +11,8 @@
 # CIRCUITOS RLC Y RESONANCIA
 # Capitulo 17
 
+![](https://github.com/jamora9/TAREA_9/blob/main/IMA/Blank%20diagram.png)
+
 # FILTROS PASIVOS
 # Capitulo 18
 
