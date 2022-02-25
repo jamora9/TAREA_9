@@ -4,7 +4,13 @@
 
 # Objetivo General
 
+Explicar conceptos relacionados al tema de circuitos RLC y resonancia, conjunto con filtros pasivos, por medio de un informe académico que incluya material de estudio en mapas mentales y la resolución de ejercicios propuestos, que permita a los lectores comprender de mejor manera la estructuración de los circuitos eléctricos.
+
 # Objetivos Específicos
+
+- Analizar los circuitos RCL en serie y paralelo y las combinaciones entre serie-paralelo
+- Comprender conceptos importantes de los filtros pasivos y su implementacion en los circuitos electricos. 
+- Resolver ejercicios practico para la aplicacion de los temas propuestos.
 
 # MARCO TEORICO
 
@@ -225,6 +231,8 @@
 # VIDEO
 
 # CONCLUSIONES
+
+- A traves del estudio del capitulo 17 se comprendio que la resonancia es la base de la selectividad de frecuencia en sistemas de comunicaciones. Por ejemplo, la capacidad de un receptor de radio o de televisión para seleccionar cierta frecuencia transmitida por una estación particular y, al mismo tiempo, eliminar las frecuencias de otras estaciones está basada en el principio de resonancia
 
 # BIBLIOGRAFÍA
 - Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.) (8th ed.). Naucalpan de Juárez: Pearson Educación.
