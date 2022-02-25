@@ -4,7 +4,7 @@
 
 # Objetivo General
 
-Explicar conceptos relacionados al tema de circuitos RLC y resonancia, conjunto con filtros pasivos, por medio de un informe académico que incluya material de estudio en mapas mentales y la resolución de ejercicios propuestos, que permita a los lectores comprender de mejor manera la estructuración de los circuitos eléctricos.
+- Explicar conceptos relacionados al tema de circuitos RLC y resonancia, conjunto con filtros pasivos, por medio de un informe académico que incluya material de estudio en mapas mentales y la resolución de ejercicios propuestos, que permita a los lectores comprender de mejor manera la estructuración de los circuitos eléctricos.
 
 # Objetivos Específicos
 
@@ -232,7 +232,9 @@ Explicar conceptos relacionados al tema de circuitos RLC y resonancia, conjunto 
 
 # CONCLUSIONES
 
-- A traves del estudio del capitulo 17 se comprendio que la resonancia es la base de la selectividad de frecuencia en sistemas de comunicaciones. Por ejemplo, la capacidad de un receptor de radio o de televisión para seleccionar cierta frecuencia transmitida por una estación particular y, al mismo tiempo, eliminar las frecuencias de otras estaciones está basada en el principio de resonancia
+- A traves del estudio del capitulo 17 se comprendio que la resonancia es la base de la selectividad de frecuencia en sistemas de comunicaciones. Por ejemplo, la capacidad de un receptor de radio o de televisión para seleccionar cierta frecuencia transmitida por una estación particular y, al mismo tiempo, eliminar las frecuencias de otras estaciones está basada en el principio de resonancia.
+- Los circuitos RCL tienen suma importancia en la sisntonizacion, ya que estos se usan para seleccionar un rango estrecho de frecuencias de las ondas de radio ambientales.
+- En los sistemas electrónicos se emplean filtros para dejar pasar solo las frecuencias deseadas y eliminar las restantes. Los filtros pasivos aumentan su impedancia a medida que nos alejamos de la frecuencia que por diseño deben dejar pasar, consiguiendo así aislar la señal deseada, eliminando las interferencias.
 
 # BIBLIOGRAFÍA
 - Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.) (8th ed.). Naucalpan de Juárez: Pearson Educación.
