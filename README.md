@@ -147,6 +147,58 @@
 
 ![image](https://user-images.githubusercontent.com/93900233/155651231-8b69e1b9-81c9-477a-9e38-047c18f12d88.png)
 
+# Capitulo 18
+
+# EJERCICIO 1
+
+![image](https://user-images.githubusercontent.com/93899422/155660897-84343eb1-70be-40b5-9b21-736c6bdf98da.png)
+
+# EJERCICIO 3
+
+![image](https://user-images.githubusercontent.com/93899422/155661047-a9582cbf-d407-4e54-92b7-9996d400c19c.png)
+![image](https://user-images.githubusercontent.com/93899422/155661087-c4b26e8c-829d-4bd1-b3ef-eea1fa8fcf28.png)
+
+# EJERCICIO 5
+
+![image](https://user-images.githubusercontent.com/93899422/155661241-2626aa67-c2a2-46e1-b4c8-ba68688831a6.png)
+![image](https://user-images.githubusercontent.com/93899422/155661203-0c05647f-db81-4580-81ab-5b30c7741d2e.png)
+
+# EJERCICIO 7
+
+![image](https://user-images.githubusercontent.com/93899422/155661336-eb9062c9-9fd9-4656-a6ca-8a66b5693fa4.png)
+![image](https://user-images.githubusercontent.com/93899422/155661422-f838efe0-3c02-4828-9301-d5852f209e05.png)
+
+# EJERCICIO 9
+
+![image](https://user-images.githubusercontent.com/93899422/155661471-2ca7c368-303b-4908-829c-b32831fcdfb8.png)
+![image](https://user-images.githubusercontent.com/93899422/155661496-1499bcf2-0cc7-44f5-b317-bf90ae65c655.png)
+
+# EJERCICIO 11
+
+![image](https://user-images.githubusercontent.com/93899422/155661541-20187438-23be-460f-80b2-57d8585b4c59.png)
+
+# EJERCICIO 13
+
+![image](https://user-images.githubusercontent.com/93899422/155661618-70e70ff8-fd85-496a-8cc0-129776d5f9b1.png)
+![image](https://user-images.githubusercontent.com/93899422/155661731-00e47706-b6b7-4d20-abbc-5e98afe64013.png)
+![image](https://user-images.githubusercontent.com/93899422/155661788-d823b69d-5dc8-491a-80f6-79041cb02646.png)
+![image](https://user-images.githubusercontent.com/93899422/155661811-103eed34-3125-48c5-9522-067d62d19908.png)
+
+# EJERCICIO 15
+
+![image](https://user-images.githubusercontent.com/93899422/155661844-4f8b5634-449a-4450-81bb-ac42851cc494.png)
+![image](https://user-images.githubusercontent.com/93899422/155661886-29fa3a79-f01f-4e53-a97a-440cea831ae9.png)
+![image](https://user-images.githubusercontent.com/93899422/155661947-e320b8f7-612e-4d55-a96e-bd6cb00db1f1.png)
+![image](https://user-images.githubusercontent.com/93899422/155661948-6866113f-c7b6-4b56-b019-b604014ddc44.png)
+![image](https://user-images.githubusercontent.com/93899422/155662037-8d97885b-0c88-4303-9633-ad14b1d69a80.png)
+
+# EJERCICIO 17
+# EJERCICIO 19
+# EJERCICIO 21
+# EJERCICIO 23
+# EJERCICIO 25
+# EJERCICIO 27
+
 # VIDEO
 
 # CONCLUSIONES
