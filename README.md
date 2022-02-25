@@ -19,6 +19,7 @@
 # Capitulo 18
 
 ![](https://github.com/jamora9/TAREA_9/blob/main/IMA/4.png)
+![](https://github.com/jamora9/TAREA_9/blob/main/IMA/5.png)
 
 # EJERCICIOS
 
