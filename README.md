@@ -189,15 +189,37 @@
 ![image](https://user-images.githubusercontent.com/93899422/155661844-4f8b5634-449a-4450-81bb-ac42851cc494.png)
 ![image](https://user-images.githubusercontent.com/93899422/155661886-29fa3a79-f01f-4e53-a97a-440cea831ae9.png)
 ![image](https://user-images.githubusercontent.com/93899422/155661947-e320b8f7-612e-4d55-a96e-bd6cb00db1f1.png)
-![image](https://user-images.githubusercontent.com/93899422/155661948-6866113f-c7b6-4b56-b019-b604014ddc44.png)
 ![image](https://user-images.githubusercontent.com/93899422/155662037-8d97885b-0c88-4303-9633-ad14b1d69a80.png)
+![image](https://user-images.githubusercontent.com/93899422/155662160-63378417-214a-4504-ace2-6b71f3a2a862.png)
 
 # EJERCICIO 17
+
+![image](https://user-images.githubusercontent.com/93899422/155662210-31cb35a8-d6d1-4003-8822-dafaac3ea9b9.png)
+
 # EJERCICIO 19
+
+![image](https://user-images.githubusercontent.com/93899422/155662250-eff1b215-a0b3-4d44-ab7c-b2bae15682d7.png)
+![image](https://user-images.githubusercontent.com/93899422/155662369-d7a7a581-85c6-40f1-b279-2f9e487f55f3.png)
+![image](https://user-images.githubusercontent.com/93899422/155662401-aa7b2e84-53dd-4b54-acb8-9d68cf81c16b.png)
+
 # EJERCICIO 21
+
+![image](https://user-images.githubusercontent.com/93899422/155662450-2dce01f3-7bbd-415c-b60d-2f194788b91e.png)
+![image](https://user-images.githubusercontent.com/93899422/155662499-b9f28a22-6974-4ec9-bf06-d8348bd20462.png)
+![image](https://user-images.githubusercontent.com/93899422/155662530-c1bfc0a7-8240-4270-8bfd-321ed611551c.png)
+
 # EJERCICIO 23
+
+![image](https://user-images.githubusercontent.com/93899422/155662606-48984221-0984-4b36-97fd-f7479e2255fe.png)
+![image](https://user-images.githubusercontent.com/93899422/155662590-47748fae-553b-426d-929e-8b5b0366d161.png)
+
 # EJERCICIO 25
+
+![image](https://user-images.githubusercontent.com/93899422/155662649-552253bb-b120-4ceb-b8d0-91e9307db692.png)
+
 # EJERCICIO 27
+
+![image](https://user-images.githubusercontent.com/93899422/155662716-73b4e1cb-a355-43d1-ac81-8789600359da.png)
 
 # VIDEO
 
