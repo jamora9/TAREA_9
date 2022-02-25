@@ -20,7 +20,6 @@
 
 ![](https://github.com/jamora9/TAREA_9/blob/main/IMA/4.png)
 ![](https://github.com/jamora9/TAREA_9/blob/main/IMA/5.png)
-![](https://github.com/jamora9/TAREA_9/blob/main/IMA/6.png)
 
 # EJERCICIOS
 
@@ -54,15 +53,33 @@
 
 # EJERCICIO 11
 
+![image](https://user-images.githubusercontent.com/93900233/155647512-dd9fed92-ea0a-48cb-9b4c-9bc6c29768ec.png)
+
 # EJERCICIO 13
+
+![image](https://user-images.githubusercontent.com/93900233/155647699-309474d8-3791-46b9-aeae-afa0dff98ca7.png)
+
+![image](https://user-images.githubusercontent.com/93900233/155647719-54841da4-5e30-406e-a665-cffed9120db0.png)
 
 # EJERCICIO 15
 
+
+
 # EJERCICIO 17
+
+![image](https://user-images.githubusercontent.com/93900233/155647911-8589df4c-070c-430f-8375-c3ab3c82b1fa.png)
+
+![image](https://user-images.githubusercontent.com/93900233/155647930-5e366344-f031-4518-9b59-25120fb38dd8.png)
 
 # EJERCICIO 19
 
+![image](https://user-images.githubusercontent.com/93900233/155648107-0087b987-bd9c-44a1-8724-9eab30b1892c.png)
+
 # EJERCICIO 21
+
+![image](https://user-images.githubusercontent.com/93900233/155648284-646ef90e-0709-4e3c-97ba-156c8811d9ff.png)
+
+![image](https://user-images.githubusercontent.com/93900233/155648341-ee3c5740-b9dd-4e91-8c2f-3c42de6c564b.png)
 
 # EJERCICIO 23
 
