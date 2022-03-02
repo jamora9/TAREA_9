@@ -230,6 +230,8 @@
 
 # VIDEO
 
+https://youtu.be/xItqn2Z9JjI
+
 # CONCLUSIONES
 
 - A traves del estudio del capitulo 17 se comprendio que la resonancia es la base de la selectividad de frecuencia en sistemas de comunicaciones. Por ejemplo, la capacidad de un receptor de radio o de televisión para seleccionar cierta frecuencia transmitida por una estación particular y, al mismo tiempo, eliminar las frecuencias de otras estaciones está basada en el principio de resonancia.
